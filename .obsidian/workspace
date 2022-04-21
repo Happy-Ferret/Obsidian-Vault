@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "85fabfd9f9cae2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b84078076b08685e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SCUMM/iMuse.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "870db3c2169c2731",
+    "type": "split",
+    "children": [
+      {
+        "id": "0503015b07cb8f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3c67e47c506b036",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "54fe3a87e3e08d9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8205d500d2e4a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dadb716babfdb36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db22fb7f92609953",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SCUMM/iMuse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b84078076b08685e",
+  "lastOpenFiles": [
+    "SCUMM/iMuse.md",
+    "SCUMM/SCUMM.md",
+    "SCUMM/ScummC.md",
+    "SCUMM/ScummVM.md",
+    "SCUMM/Opcodes.md",
+    "Z-Machine/Z-Machine.md",
+    "Z-Machine/Test.md",
+    "Z-Machine/Untitled.md"
+  ]
+}
