@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
 - **[[SCUMM]]**
 	- [[iMuse]]
-	- [[Opcodes]]
+	- [[SCUMM/Opcodes]]
 	- [[ScummC]]
 	- [[ScummVM]]
 

@@ -1,6 +1,5 @@
 %% Begin Waypoint %%
 - **[[Z-Machine]]**
-	- [[Test]]
-	- [[Untitled]]
+	- [[Opcodes]]
 
 %% End Waypoint %%
