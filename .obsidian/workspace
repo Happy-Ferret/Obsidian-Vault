@@ -7,8 +7,12 @@
         "id": "b84078076b08685e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Middangeard/Operatmos.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Middangeard/Operatmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,13 +91,13 @@
   "lastOpenFiles": [
     "Middangeard/Operatmos.md",
     "Middangeard/Middangeard.md",
-    "SCUMM/SCUMM.md",
-    "SCUMM/ScummC.md",
-    "Z-Machine/Test.md",
     "Z-Machine/Opcodes.md",
-    "SCUMM/iMuse.md",
+    "Z-Machine/Z-Machine.md",
+    "SCUMM/SCUMM.md",
     "SCUMM/ScummVM.md",
     "SCUMM/Opcodes.md",
-    "Z-Machine/Z-Machine.md"
+    "SCUMM/iMuse.md",
+    "SCUMM/ScummC.md",
+    "Z-Machine/Test.md"
   ]
 }
