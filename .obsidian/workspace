@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Middangeard/Operatmos.md",
+            "file": "Middangeard/Ymir.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Middangeard/Operatmos.md",
+                "file": "Middangeard/Ymir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "b84078076b08685e",
   "lastOpenFiles": [
+    "Middangeard/Ymir.md",
     "Middangeard/Operatmos.md",
     "Middangeard/Middangeard.md",
     "Z-Machine/Opcodes.md",
@@ -97,7 +98,6 @@
     "SCUMM/ScummVM.md",
     "SCUMM/Opcodes.md",
     "SCUMM/iMuse.md",
-    "SCUMM/ScummC.md",
-    "Z-Machine/Test.md"
+    "SCUMM/ScummC.md"
   ]
 }
