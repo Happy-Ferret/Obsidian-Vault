@@ -7,6 +7,7 @@ A fork of [asar](https://github.com/electron/asar), it works like `tar` that c
 
 ### v0
 - Flat archive
-	- No internal folders
-	- All contents compiled into root of `.y0` file 
+	- No internal folders aside of generated `v0` root folder
+	- All contents compiled into `v0/` of `.y0` file 
 - Only assets, no executables or scripts
+
