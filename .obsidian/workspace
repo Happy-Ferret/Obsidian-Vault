@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Middangeard/Ymir.md",
+            "file": "Scratch Pad.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Middangeard/Ymir.md",
+                "file": "Scratch Pad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "b84078076b08685e",
   "lastOpenFiles": [
+    "Scratch Pad.md",
     "Middangeard/Ymir.md",
     "Middangeard/Operatmos.md",
     "Middangeard/Middangeard.md",
@@ -97,7 +98,6 @@
     "SCUMM/SCUMM.md",
     "SCUMM/ScummVM.md",
     "SCUMM/Opcodes.md",
-    "SCUMM/iMuse.md",
-    "SCUMM/ScummC.md"
+    "SCUMM/iMuse.md"
   ]
 }
