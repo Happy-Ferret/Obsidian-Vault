@@ -3,3 +3,10 @@
 `sudo apt-get install xzdec`
 `sudo tlmgr init-usertree`
 `sudo tlmgr install ec`
+
+
+
+
+Create tool with config file using one of these libraries:
+https://github.com/signintech/gopdf
+https://github.com/stephenafamo/goldmark-pdf
