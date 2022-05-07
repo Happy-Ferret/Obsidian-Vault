@@ -10,3 +10,5 @@
 Create tool with config file using one of these libraries:
 https://github.com/signintech/gopdf
 https://github.com/stephenafamo/goldmark-pdf
+
+Name for tool: Letterwriter, Typewriter, TypeSmith or the name of a fictional or real typewritter.
