@@ -39,4 +39,5 @@
 	- [ ] XUL and Electron-like support
 	- [ ] Ask for application name, author, website, version, description
 	- [ ] `Update` command to update the fields (either sequentially or by declaring on commandline -- either interactive input or by typing new value like in `git commit -m`)
-	- [ ] 
+
+- [ ] Investigate [UXP](https://github.com/RealityRipple/UXP/) as an alternative to official Firefox host
