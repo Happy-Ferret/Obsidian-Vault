@@ -17,3 +17,5 @@
 	- [ ] Preferences module
 		- [ ] https://udn.realityripple.com/docs/Mozilla/Working_with_windows_in_chrome_code
 	- [ ] Simple dialogs
+	- [ ] CoreGraphics wrapper (for PDF and other rendering contexts)
+	
