@@ -12,3 +12,7 @@
 - [ ] Create runtime to read an app folder's __package.json__ and launch `main` file entry.
 - [ ] IF no __package.json__ was found, launch from `application.ini` instead.
 
+- [ ] Tabby JS Library
+	- [ ] Remote module based on this: https://udn.realityripple.com/docs/Archive/Add-ons/Interaction_between_privileged_and_non-privileged_pages 
+
+
