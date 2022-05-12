@@ -31,3 +31,4 @@
 
 - [ ] Tabby Runtime Package Manager
 	- [ ] Use Git backend (GitHub org as a package registry, perhaps?)
+	- [ ] Local backups to NAS or, better yet, tape
