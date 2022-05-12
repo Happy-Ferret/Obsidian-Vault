@@ -28,4 +28,6 @@
 		- [ ] Make configurable through `BrowserWindow` options
 		- [ ] CommandHandler ideas:
 			- [ ] https://wiki.mozilla.org/XUL:Command_Line_Handling
-		
+
+- [ ] Tabby Runtime Package Manager
+	- [ ] Use Git backend (GitHub org as a package registry, perhaps?)
