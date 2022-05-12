@@ -26,3 +26,6 @@
 	- [ ] Add light/dark theme switcher in window frame (see Visual Studio Installer)
 		- [ ] ![[Pasted image 20220512125422.png]]
 		- [ ] Make configurable through `BrowserWindow` options
+		- [ ] CommandHandler ideas:
+			- [ ] https://wiki.mozilla.org/XUL:Command_Line_Handling
+		
