@@ -18,4 +18,11 @@
 		- [ ] https://udn.realityripple.com/docs/Mozilla/Working_with_windows_in_chrome_code
 	- [ ] Simple dialogs
 	- [ ] CoreGraphics wrapper (for PDF and other rendering contexts)
-	
+	- [ ] `BrowserWindow`-esque API with window type CONSTs
+		- [ ] [Electron BrowserWindow Documentation -- Look at Desktop type in Mac/Linux](https://www.electronjs.org/docs/latest/api/browser-window#new-browserwindowoptions)
+
+- [ ] Tabby Runtime
+	- [ ] Add light/dark theme command
+	- [ ] Add light/dark theme switcher in window frame (see Visual Studio Installer)
+		- [ ] ![[Pasted image 20220512125422.png]]
+		- [ ] Make configurable through `BrowserWindow` options
