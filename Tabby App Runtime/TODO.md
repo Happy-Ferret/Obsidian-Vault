@@ -25,7 +25,10 @@
 	- [ ] Add light/dark theme command
 	- [ ] Add light/dark theme switcher in window frame (see Visual Studio Installer)
 		- [ ] ![[Pasted image 20220512125422.png]]
-		- [ ] Make configurable through `BrowserWindow` options
+			- [ ] Make configurable through `BrowserWindow` options
+			- [ ] [Example app](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+			- [ ] [Prefs](https://github.com/mozilla/gecko-dev/blob/e2e57ccf30c61eb0d41abde0e27006ccb8b88b08/browser/components/pocket/content/panels/js/style-guide/entry.js#L16)
+			- [ ] 
 		- [ ] CommandHandler ideas:
 			- [ ] https://wiki.mozilla.org/XUL:Command_Line_Handling
 
