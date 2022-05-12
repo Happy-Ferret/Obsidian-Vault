@@ -30,5 +30,13 @@
 			- [ ] https://wiki.mozilla.org/XUL:Command_Line_Handling
 
 - [ ] Tabby Runtime Package Manager
+	- [ ] Part of regular Tabby command (codebase should be modular enough)
 	- [ ] Use Git backend (GitHub org as a package registry, perhaps?)
-	- [ ] Local backups to NAS or, better yet, tape
+	- [ ] Local backups to NAS or, better yet, tape.
+
+- [ ] Tabby Bootstrap
+	- [ ] Part of regular Tabby command (codebase should be modular enough)
+	- [ ] XUL and Electron-like support
+	- [ ] Ask for application name, author, website, version, description
+	- [ ] `Update` command to update the fields (either sequentially or by declaring on commandline -- either interactive input or by typing new value like in `git commit -m`)
+	- [ ] 
